@@ -77,6 +77,7 @@ MarcoCarnevali/claude-code-mods
 mertkayacs/ultramod
 moduvoice/claude-code-ko-ui
 MohammedSaud404/rtl-terminal
+Mucida/critical-decisions
 muellerei/enable-todo-tools
 muellerei/sweet-spot
 muellerei/task-line
