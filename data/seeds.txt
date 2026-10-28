@@ -20,6 +20,7 @@ arturogarrido/claudinho
 Ashley-Pettit/lgtm-flash
 Ashley-Pettit/villager-hp
 atharv6f/headway
+Atoll92/agent-standup
 augbastos/afkswitch
 augiefra/claude-mods
 BatuhanCakmakk/wavy-usage
